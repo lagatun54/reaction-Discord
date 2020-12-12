@@ -1,4 +1,3 @@
-# reaction-Discord
+# Reaction bot in Discord
 script leaves reactions under messages in discord
-h1 Reaction bot in Disocrd
 =====================
